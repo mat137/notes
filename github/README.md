@@ -1,8 +1,5 @@
 # Hi
 
-Useful link: https://guides.github.com/features/mastering-
-markdown
-
 ### Github - quick setup
 ```
 echo "# asdasda" >> README.md
