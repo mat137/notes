@@ -18,7 +18,9 @@ npm install   -> installing all modules from package.json
 
 ```
 <br>
+
 ## gulp :
+
 ```
 npm install --global gulp-cli   -> global installation of CLI tools for gulp 
 npm rm --global gulp 
