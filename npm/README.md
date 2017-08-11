@@ -7,6 +7,7 @@ npm install -g <name of module>   -> global instalation
 npm list
 npm uninstall -g
 npm uninstall
+npm -v                            -> version
 
 npm update -g <name of module>    -> update globally
 
@@ -16,4 +17,15 @@ npm install <name of module> --save-dev ->devDependencies in package.json
 npm install   -> installing all modules from package.json
 
 ```
+<br>
+## gulp :
+```
+npm install --global gulp-cli   -> global installation of CLI tools for gulp 
+npm rm --global gulp 
 
+local installation: (needed for every project)
+
+npm init
+npm install --save-dev gulp
+
+```
