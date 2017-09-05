@@ -1,4 +1,12 @@
-## This is some copy+paste stuff for npm, webpack and gulp
+## This is some copy+paste stuff for npm, webpack and gulp AND nodejs
+
+### node : <br>
+```
+sudo apt install curl
+curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+sudo apt-get install nodejs build-essential
+
+```
 
 ### npm : <br>
 ```
