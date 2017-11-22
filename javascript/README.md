@@ -48,8 +48,7 @@ clearInterval(id);
 #### 4. setTimeOut & clearSetTimeout
 > Wykonaj kod po podanym czasie
 
-```
-JavaScript
+```JavaScript
 var id = setTimeout(function() {
     setOpacity(1);
 }, 1000);
