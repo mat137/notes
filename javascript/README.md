@@ -1,5 +1,5 @@
 #### 1. Tworzenie obiektów na podstawie konstruktora
-```JavaScript```
+```JavaScript
 function Animal(type) {
     this.type = type;
 }
