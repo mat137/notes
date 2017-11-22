@@ -16,7 +16,7 @@ pigeon.sayVoice("gru gru");
 ```
 #### 2. Tworzenie obiektów za pomocą Object.create()
 
-```JavaScriptvar
+```
  Animal = {
     type: "",
     sayVoice: function(voice) {
