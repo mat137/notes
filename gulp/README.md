@@ -37,6 +37,7 @@ gulp.task('watch', function(){
   gulp.watch('scss/**/*.scss', ['sass']);
 });
 //wtyczka szukajaca bledy w js
+//wymagana instalacja jshint oraz gulp-jshint
 const jshint = require('gulp-jshint');
 
 gulp.task('lint', function(){
